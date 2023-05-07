@@ -31,7 +31,7 @@ const formLabelAlign = reactive({
     width: 100%;
     ::v-deep .el-form{
         padding: 50px 10px 10px;
-        margin: 20vh auto 0;
+        margin: 30vh auto 0;
     }
 }
 </style>
